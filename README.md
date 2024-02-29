@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudhanshu Gupta.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m a Frontend Developer.
+- 🌱 I’m currently mastering React and Next.js.
 
 <!---
 SudhanshuGupta409/SudhanshuGupta409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
